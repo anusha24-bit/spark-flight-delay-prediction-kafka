@@ -1,0 +1,41 @@
+# Data
+data/flights.csv
+data/*.csv
+
+# Models
+models/
+
+# Spark
+checkpoint/
+metastore_db/
+derby.log
+spark-warehouse/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
